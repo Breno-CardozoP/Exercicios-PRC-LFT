@@ -1,2 +1,2 @@
-# stargazers-log
-repositorios favoritos
+# Exercicios-PRC/LFT-log
+
